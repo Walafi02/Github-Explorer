@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/react-typescript/static/js/main.e1d0e835.chunk.js",
-    "main.js.map": "/react-typescript/static/js/main.e1d0e835.chunk.js.map",
+    "main.js": "/react-typescript/static/js/main.e64c0ba9.chunk.js",
+    "main.js.map": "/react-typescript/static/js/main.e64c0ba9.chunk.js.map",
     "runtime-main.js": "/react-typescript/static/js/runtime-main.5760871f.js",
     "runtime-main.js.map": "/react-typescript/static/js/runtime-main.5760871f.js.map",
     "static/js/2.c82b4f18.chunk.js": "/react-typescript/static/js/2.c82b4f18.chunk.js",
     "static/js/2.c82b4f18.chunk.js.map": "/react-typescript/static/js/2.c82b4f18.chunk.js.map",
     "index.html": "/react-typescript/index.html",
-    "precache-manifest.0e3ed586d16ecb0f57239979bc5d9ec6.js": "/react-typescript/precache-manifest.0e3ed586d16ecb0f57239979bc5d9ec6.js",
+    "precache-manifest.e4ef4a106f92694204cd9fffa0f8cfcc.js": "/react-typescript/precache-manifest.e4ef4a106f92694204cd9fffa0f8cfcc.js",
     "service-worker.js": "/react-typescript/service-worker.js",
     "static/js/2.c82b4f18.chunk.js.LICENSE.txt": "/react-typescript/static/js/2.c82b4f18.chunk.js.LICENSE.txt",
     "static/media/github-background.svg": "/react-typescript/static/media/github-background.0b819d63.svg",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.5760871f.js",
     "static/js/2.c82b4f18.chunk.js",
-    "static/js/main.e1d0e835.chunk.js"
+    "static/js/main.e64c0ba9.chunk.js"
   ]
 }
