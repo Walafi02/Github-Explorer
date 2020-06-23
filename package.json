@@ -1,8 +1,8 @@
 {
-  "name": "react-typescript",
+  "name": "github-explorer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://walafi02.github.io/react-typescript/",
+  "homepage": "https://walafi02.github.io/Github-Explorer/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

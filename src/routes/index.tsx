@@ -6,12 +6,12 @@ import Repository from '../pages/Repository';
 
 const Routes: React.FC = () => (
   <Switch>
-    <Route path="/react-typescript" exact component={Dashboard} />
+    <Route path="/Github-Explorer" exact component={Dashboard} />
     <Route
-      path="/react-typescript/repository/:repository+"
+      path="/Github-Explorer/repository/:repository+"
       component={Repository}
     />
-    <Redirect to="/react-typescript" />
+    <Redirect to="/Github-Explorer" />
   </Switch>
 );
 
