@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/react-typescript/static/js/main.6827304d.chunk.js",
-    "main.js.map": "/react-typescript/static/js/main.6827304d.chunk.js.map",
+    "main.js": "/react-typescript/static/js/main.0ab26612.chunk.js",
+    "main.js.map": "/react-typescript/static/js/main.0ab26612.chunk.js.map",
     "runtime-main.js": "/react-typescript/static/js/runtime-main.5760871f.js",
     "runtime-main.js.map": "/react-typescript/static/js/runtime-main.5760871f.js.map",
-    "static/js/2.7fcd858e.chunk.js": "/react-typescript/static/js/2.7fcd858e.chunk.js",
-    "static/js/2.7fcd858e.chunk.js.map": "/react-typescript/static/js/2.7fcd858e.chunk.js.map",
+    "static/js/2.b719390b.chunk.js": "/react-typescript/static/js/2.b719390b.chunk.js",
+    "static/js/2.b719390b.chunk.js.map": "/react-typescript/static/js/2.b719390b.chunk.js.map",
     "index.html": "/react-typescript/index.html",
-    "precache-manifest.b2492b4a562d229575714f7f105666e9.js": "/react-typescript/precache-manifest.b2492b4a562d229575714f7f105666e9.js",
+    "precache-manifest.dee795e7b892869f1a21ebf60ed352dd.js": "/react-typescript/precache-manifest.dee795e7b892869f1a21ebf60ed352dd.js",
     "service-worker.js": "/react-typescript/service-worker.js",
-    "static/js/2.7fcd858e.chunk.js.LICENSE.txt": "/react-typescript/static/js/2.7fcd858e.chunk.js.LICENSE.txt",
+    "static/js/2.b719390b.chunk.js.LICENSE.txt": "/react-typescript/static/js/2.b719390b.chunk.js.LICENSE.txt",
     "static/media/github-background.svg": "/react-typescript/static/media/github-background.0b819d63.svg",
     "static/media/logo.svg": "/react-typescript/static/media/logo.04f6798f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5760871f.js",
-    "static/js/2.7fcd858e.chunk.js",
-    "static/js/main.6827304d.chunk.js"
+    "static/js/2.b719390b.chunk.js",
+    "static/js/main.0ab26612.chunk.js"
   ]
 }
