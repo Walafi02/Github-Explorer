@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/react-typescript/static/js/main.0ab26612.chunk.js",
-    "main.js.map": "/react-typescript/static/js/main.0ab26612.chunk.js.map",
-    "runtime-main.js": "/react-typescript/static/js/runtime-main.5760871f.js",
-    "runtime-main.js.map": "/react-typescript/static/js/runtime-main.5760871f.js.map",
-    "static/js/2.b719390b.chunk.js": "/react-typescript/static/js/2.b719390b.chunk.js",
-    "static/js/2.b719390b.chunk.js.map": "/react-typescript/static/js/2.b719390b.chunk.js.map",
-    "index.html": "/react-typescript/index.html",
-    "precache-manifest.dee795e7b892869f1a21ebf60ed352dd.js": "/react-typescript/precache-manifest.dee795e7b892869f1a21ebf60ed352dd.js",
-    "service-worker.js": "/react-typescript/service-worker.js",
-    "static/js/2.b719390b.chunk.js.LICENSE.txt": "/react-typescript/static/js/2.b719390b.chunk.js.LICENSE.txt",
-    "static/media/github-background.svg": "/react-typescript/static/media/github-background.0b819d63.svg",
-    "static/media/logo.svg": "/react-typescript/static/media/logo.04f6798f.svg"
+    "main.js": "/Github-Explorer/static/js/main.c290e96c.chunk.js",
+    "main.js.map": "/Github-Explorer/static/js/main.c290e96c.chunk.js.map",
+    "runtime-main.js": "/Github-Explorer/static/js/runtime-main.fc109948.js",
+    "runtime-main.js.map": "/Github-Explorer/static/js/runtime-main.fc109948.js.map",
+    "static/js/2.00210f80.chunk.js": "/Github-Explorer/static/js/2.00210f80.chunk.js",
+    "static/js/2.00210f80.chunk.js.map": "/Github-Explorer/static/js/2.00210f80.chunk.js.map",
+    "index.html": "/Github-Explorer/index.html",
+    "precache-manifest.d89ba427c2784f023b49f68beb8ba251.js": "/Github-Explorer/precache-manifest.d89ba427c2784f023b49f68beb8ba251.js",
+    "service-worker.js": "/Github-Explorer/service-worker.js",
+    "static/js/2.00210f80.chunk.js.LICENSE.txt": "/Github-Explorer/static/js/2.00210f80.chunk.js.LICENSE.txt",
+    "static/media/github-background.svg": "/Github-Explorer/static/media/github-background.0b819d63.svg",
+    "static/media/logo.svg": "/Github-Explorer/static/media/logo.04f6798f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5760871f.js",
-    "static/js/2.b719390b.chunk.js",
-    "static/js/main.0ab26612.chunk.js"
+    "static/js/runtime-main.fc109948.js",
+    "static/js/2.00210f80.chunk.js",
+    "static/js/main.c290e96c.chunk.js"
   ]
 }
